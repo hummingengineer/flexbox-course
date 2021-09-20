@@ -184,3 +184,7 @@ input::-moz-focus-inner {
 .box {
   width: 33.333%;
 }
+
+.box2 {
+  padding-bottom: 200px;
+}

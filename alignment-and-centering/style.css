@@ -188,3 +188,7 @@ input::-moz-focus-inner {
 .box2 {
   padding-bottom: 200px;
 }
+
+.box6 {
+  padding-bottom: 0;
+}

@@ -4,3 +4,7 @@
   align-content:center;
   justify-content:center;
 }
+
+.box1 {
+  flex: 10 5 450px;
+}

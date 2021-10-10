@@ -9,4 +9,5 @@
   -ms-flex-direction: column;
   flex-direction: column;
   -webkit-align-content: center;
+  -ms-flex-line-pack: center;
 }

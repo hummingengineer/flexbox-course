@@ -10,4 +10,5 @@
   flex-direction: column;
   -webkit-align-content: center;
   -ms-flex-line-pack: center;
+  align-content: center;
 }

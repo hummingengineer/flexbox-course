@@ -16,3 +16,7 @@
   -ms-flex-pack: center;
   justify-content: center;
 }
+
+.box1 {
+  -webkit-box-flex: 10;
+}

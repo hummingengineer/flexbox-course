@@ -21,4 +21,5 @@
   -webkit-box-flex: 10;
   -webkit-flex: 10 5 450px;
   -ms-flex: 10 5 450px;
+  flex: 10 5 450px;
 }

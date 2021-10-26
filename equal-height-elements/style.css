@@ -39,3 +39,7 @@ a {
   display: flex;
   flex-wrap: wrap;
 }
+
+.item {
+  flex: 1 1 calc(33.33% - 20px);
+}

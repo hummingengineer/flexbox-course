@@ -177,4 +177,5 @@ input::-moz-focus-inner {
 .container {
   display: flex;
   border: 10px solid goldenrod;
+  min-height: 100vh;
 }

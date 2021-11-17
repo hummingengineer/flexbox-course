@@ -180,3 +180,7 @@ input::-moz-focus-inner {
   min-height: 100vh;
   flex-wrap: wrap;
 }
+
+.box {
+  width: 33.3333333%;
+}

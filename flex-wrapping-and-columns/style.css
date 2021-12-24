@@ -176,4 +176,5 @@ input::-moz-focus-inner {
 /* We start writing out flexbox here. The above is just page setup */
 .container {
   display: flex;
+  flex-wrap: wrap;
 }

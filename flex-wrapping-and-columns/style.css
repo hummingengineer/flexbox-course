@@ -177,4 +177,5 @@ input::-moz-focus-inner {
 .container {
   display: flex;
   flex-wrap: wrap;
+  flex-direction: column;
 }

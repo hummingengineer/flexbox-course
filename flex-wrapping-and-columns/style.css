@@ -179,4 +179,5 @@ input::-moz-focus-inner {
   flex-wrap: wrap;
   flex-direction: column;
   border: 10px solid goldenrod;
+  height: 100vh;
 }

@@ -181,3 +181,7 @@ input::-moz-focus-inner {
   border: 10px solid goldenrod;
   height: 100vh;
 }
+
+.box {
+  flex-basis: 250px;
+}

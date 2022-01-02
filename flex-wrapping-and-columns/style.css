@@ -186,3 +186,7 @@ input::-moz-focus-inner {
   flex-basis: 250px;
   flex-grow: 1;
 }
+
+.box3 {
+  flex-grow:5;
+}

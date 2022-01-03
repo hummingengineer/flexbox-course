@@ -190,3 +190,7 @@ input::-moz-focus-inner {
 .box3 {
   flex-grow:5;
 }
+
+.box4 {
+  flex-basis:100px;  
+}

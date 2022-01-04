@@ -95,8 +95,13 @@ a.button {
   
     Flexbox + Important CSS Starts Here
   
-  */
+*/
 
 /*
     Overall Layout
-  */
+*/
+
+.app-wrap {
+  display: flex;
+  flex-direction: column;
+}

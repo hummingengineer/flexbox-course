@@ -109,3 +109,12 @@ a.button {
 .app-wrap > * {
   flex: 1 1 auto;
 }
+
+/*
+  Header
+*/
+
+.app-header {
+  display:flex;
+  align-items: center;
+}

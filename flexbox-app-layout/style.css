@@ -119,3 +119,11 @@ a.button {
   align-items: center;
   justify-content: space-between;
 }
+
+/*
+  Content
+*/
+
+.content {
+  overflow-y: scroll;
+}

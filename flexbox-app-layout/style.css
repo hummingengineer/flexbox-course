@@ -128,3 +128,11 @@ a.button {
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 }
+
+/*
+  Icon Bar 
+*/
+
+.icon-bar {
+  display:flex;
+}

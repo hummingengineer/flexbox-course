@@ -76,3 +76,7 @@ a {
   justify-content: center;
   align-items: center;
 }
+
+.flex-form {
+  z-index: 10;
+}

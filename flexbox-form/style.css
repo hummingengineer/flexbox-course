@@ -83,3 +83,7 @@ a {
   border-radius: 5px;
   display: flex;
 }
+
+input[type="search"] {
+  flex-basis: 500px;
+}

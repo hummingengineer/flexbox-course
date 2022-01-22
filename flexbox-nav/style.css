@@ -57,6 +57,9 @@ a:hover {
 }
 
 @media all and (max-width: 1000px) {
+  .flex-nav ul {
+    flex-wrap: wrap;
+  }
 }
 
 @media all and (max-width: 500px) {

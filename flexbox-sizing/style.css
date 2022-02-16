@@ -181,3 +181,7 @@ input::-moz-focus-inner {
 .box {
   flex: 1;
 }
+
+.box2 {
+  flex: 2;
+}

@@ -177,3 +177,7 @@ input::-moz-focus-inner {
 .container {
   display: flex;
 }
+
+.box {
+  flex: 1;
+}

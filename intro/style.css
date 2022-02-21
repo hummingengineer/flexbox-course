@@ -155,4 +155,5 @@ input::-moz-focus-inner {
 /* Some default styles to make each box visible */
 .box {
   color: white;
+  font-size: 100px;
 }
